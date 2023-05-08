@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useRef, useEffect } from 'react';
 
 import { Section, SectionDivider, SectionText, SectionTitle } from '../UI/Section';
